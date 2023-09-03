@@ -9,11 +9,11 @@ Um dos jogadores precisa definir o tamanho do jogo da velha antes de iniciar o j
 É necessario 2 jogadores, por padrão o jogador "X" começa o jogo. Digite a posição da casa para inserir X ou O, exemplo:
 Escreva o tamanho do tabuleiro: 5
 
+"['_', '_', '_', '_', '_']
 ['_', '_', '_', '_', '_']
 ['_', '_', '_', '_', '_']
 ['_', '_', '_', '_', '_']
-['_', '_', '_', '_', '_']
-['_', '_', '_', '_', '_']
+['_', '_', '_', '_', '_']"
 
 Você é o 'X', escolha uma posição para inserir o 'X' (exemplo: 1 2): 2 2
 
